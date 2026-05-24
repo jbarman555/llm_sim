@@ -1,0 +1,10 @@
+{
+  "dataset": "wn18rr",
+  "split": "train",
+  "noise": 0.1,
+  "seed": 13,
+  "use_context": true,
+  "context_k": 1,
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "llm_model": "meta-llama/Meta-Llama-3-8B"
+}

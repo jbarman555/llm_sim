@@ -1,0 +1,15 @@
+dog	hypernym	animal
+cat	hypernym	animal
+sparrow	hypernym	bird
+eagle	hypernym	bird
+salmon	hypernym	fish
+trout	hypernym	fish
+animal	derivationally_related_form	animate
+bird	derivationally_related_form	avian
+fish	derivationally_related_form	aquatic
+Paris	capital_of	France
+Tokyo	capital_of	Japan
+Ottawa	capital_of	Canada
+France	located_in	Europe
+Japan	located_in	Asia
+Canada	located_in	North America

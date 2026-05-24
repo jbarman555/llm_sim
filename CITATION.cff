@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "LLM_sim paper replication code"
+message: "If you use this replication code, cite the original GenAIK 2025 paper."
+type: software
+authors:
+  - family-names: "Replication"
+    given-names: "LLM_sim"
+year: 2026
+references:
+  - type: conference-paper
+    title: "Refining Noisy Knowledge Graph with Large Language Models"
+    authors:
+      - family-names: "Na"
+        given-names: "Dong"
+      - family-names: "Kertkeidkachorn"
+        given-names: "Natthawut"
+      - family-names: "Liu"
+        given-names: "Xin"
+      - family-names: "Shirai"
+        given-names: "Kiyoaki"
+    year: 2025
+    conference:
+      name: "Generative AI and Knowledge Graph Workshop"
+    url: "https://aclanthology.org/2025.genaik-1.9/"
